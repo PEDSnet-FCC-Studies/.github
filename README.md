@@ -4,4 +4,6 @@ The purpose of the PEDSnet Federated Coordinating Center (FCC) Program is to dev
 
 https://pedsnet.org
 
-**** **NO DATA SHOULD BE PUSHED TO THE GITHUB ORGANIZATION** ****
+**** **NO DATA SHOULD BE PUSHED TO THE PEDSNET FCC STUDIES GITHUB ORGANIZATION** ****
+
+**** **The PEDSnet FCC Studies GitHub is currently under development.** ****
